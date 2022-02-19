@@ -1,0 +1,14 @@
+body {
+    background-color: rgb(242, 212, 212);
+    
+
+}
+
+.titulosessao {
+    text-align: center;
+}
+
+
+#foto1 {
+    border-radius: 100px;
+}
