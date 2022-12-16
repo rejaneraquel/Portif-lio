@@ -1,17 +1,43 @@
+
 body {
-    background-color: rgb(242, 212, 212);
-    text-align: center;
-    
-}
+   background-color: fefae0;
+   padding: 10px;
+   margin: 10px;
+
+ }
 
 .titulosessao {
-    text-align: center;
-}
+   text-align: center;
+ }
 
 a {
-    text-decoration: none;
-}
+   text-decoration: none;
+ }
 
 #foto1 {
-    border-radius: 100px;
-}
+    border-radius: 50px;
+    float: left;
+    padding: 10px 30px; 
+    width: 250px;
+ }
+
+#apresentacao {
+    margin:auto ;
+    border: 2px solid greenyellow;
+     }
+
+#fotodescricao {
+    border: 2px solid purple;
+    display: inline-block;
+    padding: 5px;
+    background-color: blueviolet;
+ }
+#nome {
+    text-align: center;
+
+ }
+ ol li:nth-child(odd) {
+   font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+   color: red
+ }
+ 
